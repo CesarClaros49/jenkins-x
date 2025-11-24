@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "my-web-app.134.199.197.212.sslip.io"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
